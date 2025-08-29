@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Jing Wang (Sebastian)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/profile.jpg"
   bio              : "AI Software Developer, Circuit Enthusiast"
   location         : "Hong Kong, China"
   email            : "jwangjw@connect.ust.hk"
